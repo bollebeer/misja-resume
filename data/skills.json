@@ -1,0 +1,219 @@
+[
+  {
+    "grouping": "Azure Technologies",
+    "skills": [
+      {
+        "name": "Azure Databricks"
+      },
+      {
+        "name": "Azure Synapse"
+      },
+      {
+        "name": "Log Analytics"
+      },
+      {
+        "name": "Data Factory"
+      },
+      {
+        "name": "Azure Data Lake Storage"
+      },
+      {
+        "name": "Virtual Machines"
+      },
+      {
+        "name": "Azure Functions"
+      },
+      {
+        "name": "App Service"
+      },
+      {
+        "name": "Container Instances"
+      },
+      {
+        "name": "Container Registry"
+      },
+      {
+        "name": "Azure SQL Database"
+      },
+      {
+        "name": "Azure SQL Database for PostgreSQL"
+      },
+      {
+        "name": "Azure DevOps"
+      },
+      {
+        "name": "Logic Apps"
+      },
+      {
+        "name": "Azure Policy"
+      },
+      {
+        "name": "Azure Cost Management and Billing"
+      },
+      {
+        "name": "Azure Advisor"
+      },
+      {
+        "name": "Key Vault"
+      },
+      {
+        "name": "Azure Active Directory"
+      },
+      {
+        "name": "Azure Blob Storage"
+      },
+      {
+        "name": "Azure Files"
+      },
+      {
+        "name": "Virtual Network"
+      },
+      {
+        "name": "Private Link",
+        "link": "https://azure.microsoft.com/en-us/services/private-link/#overview"
+      }
+    ]
+  },
+  {
+    "grouping": "Databases & Data Management",
+    "skills": [
+      {
+        "name": "Microsoft SQL Server",
+        "icon": "devicon-microsoftsqlserver-plain-wordmark"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "database"
+      },
+      {
+        "name": "Delta Lake"
+      },
+      {
+        "name": "Databricks"
+      },
+      {
+        "name": "Spark"
+      },
+      {
+        "name": "DBT"
+      },
+      {
+        "name": "Fivetran"
+      },
+      {
+        "name": "Great Expectations"
+      },
+      {
+        "name": "Azure SQL Database",
+        "icon": "database"
+      },
+      {
+        "name": "Azure SQL Database",
+        "icon": "database"
+      }
+    ]
+  },
+  {
+    "grouping": "Programming Languages",
+    "skills": [
+      {
+        "name": "Java",
+        "icon": "devicon-java-plain colored"
+      },
+      {
+        "name": "C#",
+        "icon": "devicon-csharp-plain colored"
+      },
+      {
+        "name": "SQL"
+      },
+      {
+        "name": "PowerShell"
+      },
+      {
+        "name": "Python",
+        "icon": "devicon-python-plain colored"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers & Cloud",
+    "skills": [
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "Azure",
+        "link": "https://azure.microsoft.com/en-us/"
+      },
+      {
+        "name": "Linux",
+        "link": "https://www.linux.org"
+      },
+      {
+        "name": "Windows"
+      },
+      {
+        "name": "Cloud Custodian"
+      },
+      {
+        "name": "Terrafrom"
+      },
+      {
+        "name": "ARM"
+      }
+    ]
+  },
+  {
+    "grouping": "Project Management",
+    "skills": [
+      {
+        "name": "Agile",
+        "link": "https://agilemanifesto.org"
+      },
+      {
+        "name": "Waterfall"
+      },
+      {
+        "name": "Scrum",
+        "link": "https://www.scrum.org"
+      }
+    ]
+  },
+  {
+    "grouping": "Techniques",
+    "skills": [
+      {
+        "name": "Dimensional Modeling",
+        "link": "https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/"
+      },
+      {
+        "name": "Data Modeling"
+      },
+      {
+        "name": "Graph Modeling"
+      },
+      {
+        "name": "UML"
+      }
+    ]
+  },
+  {
+    "grouping": "Others",
+    "skills": [
+      {
+        "name": "Git",
+        "link": "https://agilemanifesto.org"
+      },
+      {
+        "name": "DevOps",
+        "link": "https://agilemanifesto.org"
+      },
+      {
+        "name": "Github",
+        "link": "https://agilemanifesto.org"
+      }
+    ]
+  }
+]

@@ -1,0 +1,14 @@
+{{ define "main" }}
+   {{ partial "about.html" . }}
+
+   {{ partial "portfolio/skills.html" . }}
+
+   {{ with .Site.GetPage "section" "projects" }}
+      {{ .Scratch.Set "sectionId" "projects" }}
+      {{ partial "sectionSummary" . }}
+   {{ end }}
+     
+   {{ partial "portfolio/experience.html" . }}
+   {{ partial "portfolio/education.html" . }}
+
+{{ end }}
