@@ -2,15 +2,9 @@
   margin: 0 auto;
 }
 
-.devicons{
-  font-size:1.5em;
-      vertical-align: sub;
-}
-
 .publication-content{
   width:90%;
 }
-
 
 h3{
     margin-top:40px;
@@ -25,9 +19,8 @@ div.skills-heading{
     margin-bottom:0 !important;
 }
 
-
 .tags {
-    font: 12px/1.5 'PT Sans', serif;
+    font: 12px/1.5 'Open Sans', serif;
   list-style: none;
   margin: 0;
   overflow: hidden;
@@ -85,16 +78,11 @@ div.skills-heading{
    border-left-color: #BD5D38;
 }
 
-
-
-
-
 .resume-section blockquote {
     border-left: 4px solid #BD5D38;
     padding-left: 1em;
 }
 
-/* Fix responsive width for blog posts */
 .my-auto {
 	width: 100%
 }
