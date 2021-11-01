@@ -3,8 +3,8 @@
   <div class="resume-content">
   </div>
   <div class="resume-date">
-    <p>{{ .Description | safeHTML }}
-    <p>
+    <p>Client: {{ .Params.client | markdownify }}, role: {{ .Params.role | markdownify }}, duration: {{ .Params.duration | markdownify }} months</p>
+    <p>{{ .Description | safeHTML }}</p>
     <p class><a href="{{.Permalink}}">Read more..</a></p>
   </div>
 </div>
