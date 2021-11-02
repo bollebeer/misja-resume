@@ -5,7 +5,9 @@
   <div class="resume-date">
     <p>Client: {{ .Params.client | markdownify }}, role: {{ .Params.role | markdownify }}, duration: {{ .Params.duration | markdownify }} months</p>
     <p>{{ .Description | safeHTML }}</p>
-    <p class><a href="{{.Permalink}}">Read more..</a></p>
+    {{ if .Params.read_more }}
+      <p class><a href="{{.Permalink}}">Read more..</a></p>
+    {{ end }}
   </div>
 </div>
 <div>{{ partial "techtags" . }}</div>
