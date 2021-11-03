@@ -3,10 +3,11 @@
   <div class="resume-content">
   </div>
   <div class="resume-date">
-    <p>Client: <strong>{{ .Params.client }}</strong>, role: <strong>{{ .Params.role }}</strong>, duration: <strong>{{ .Params.duration }}</strong> months</p>
+    <p>Client: <strong>{{ .Params.client }}</strong>, role: <strong>{{ .Params.role }}</strong>, duration: <strong>{{
+        .Params.duration }}</strong> months</p>
     <p>{{ .Description | safeHTML }}</p>
     {{ if .Params.show_read_more_link }}
-      <p class><a href="{{.Permalink}}">Read more..</a></p>
+    <p class><a href="{{.Permalink}}">Read more..</a></p>
     {{ end }}
   </div>
 </div>

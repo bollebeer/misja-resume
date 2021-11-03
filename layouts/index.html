@@ -7,8 +7,10 @@
       {{ .Scratch.Set "sectionId" "projects" }}
       {{ partial "sectionSummary" . }}
    {{ end }}
-     
+   
    {{ partial "portfolio/experience.html" . }}
    {{ partial "portfolio/education.html" . }}
+
+   {{ partial "interests.html" . }}
 
 {{ end }}
