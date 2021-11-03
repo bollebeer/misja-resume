@@ -2,14 +2,7 @@
 title: Build a data platform to support KPI dashboards
 date: 2018-02-11T17:41:05.000Z
 description: >
-  Witteveen + Bos is a consultancy and engineering firm consisting of many
-  independent business units. In order to monitor the performance of the
-  business units, the idea of ​​KPI dashboards has been developed. A proof of
-  concept has shown that it is necessary to develop a data platform to make
-  possible to create KPI dashboards. My role was to design a suitable solution
-  consisting of a modern data platform using Microsoft Azure. I was responsible
-  for drawing up the project plan, making the initial architecture and the
-  designs based on the architecture.
+  Witteveen + Bos is a consulting and engineering company consisting of many independent business units. To monitor the performance of the business units, the idea of KPI dashboards was developed. A proof-of-concept showed that there was a need to develop a data platform that would allow the creation of KPI dashboards. My role was to design a suitable solution which consisted of a modern data platform using Microsoft Azure. I was responsible for creating the project plan, initial architecture and designs based on the architecture.
 tags:
   - GoDataDriven
   - Data Mesh

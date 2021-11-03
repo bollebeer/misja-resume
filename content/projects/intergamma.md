@@ -2,11 +2,7 @@
 title: Data & Analytics Roadmap Design
 date: 2018-02-11T17:41:05.000Z
 description: >
-  Intergamma had an outdated data warehouse and analytics platform based on IBM
-  Netezza. As part of their strategy to become a data-driven organization, they
-  needed a modern data platform. I was responsible for drafting the
-  requirements, sketching the different cloud scenarios (AWS, Azure, GCP) and
-  developing a roadmap.
+  Intergamma had a legacy data warehouse and analytics platform based on IBM Netezza. As part of their strategy to become a data-driven company, they needed a modern data platform. I was responsible for formulating the requirements, outlining the different cloud scenarios (AWS, Azure, GCP) and developing a roadmap.
 tags:
   - GoDataDriven
   - Azure
