@@ -1,12 +1,24 @@
 ---
-  title: "Create a dataplatform for realtime analytics "
-  date: "2018-02-11T12:41:05-05:00"
-  description: "..."
-  tags: ["Azure SQL Database","Data Factory", "Azure Blob Storage", "Key Vault"]
-  featured: true
-  duration: "**10**"
-  client: "**Samengezond**"
-  role: "**Data Engineer**"
+title: Realize a dataplatform for realtime analytics 
+date: 2018-02-11T12:41:05-05:00
+description: >
+  aa
+tags:
+  - Macaw
+  - Azure SQL Database
+  - Azure Data Factory
+  - Azure Blob Storage
+  - Azure Databricks
+  - Azure Functions
+  - Azure Queue Storage
+  - Dacadoo
+  - Mailchimp
+  - Typeform
+featured: true
+duration: 10
+client: Samengezond (Menzis)
+role: Data Engineer
+weight: 7
 ---
 
 
@@ -19,5 +31,12 @@ Samengezond is een initiatief van Menzis om gezond gedrag bij mensen te stimuler
 gedeeld worden met andere partijen waarbij anoniemisatie een grote rol speelde.
 Werkzaamheden: Ontwerpen Azure architectuur; ETL ontwikkelen van API’s en andere bronnen; Resultaat verantwoordelijke;
 Gebruikte technologieën: Azure SQL Database; Azure Data Factory; Azure Blob Storage; Azure Key Vault, Azure Databricks, Azure Functions, Azure Queue Storage
+
+Samengezond is an initiative of Menzis to stimulate healthy behavior in people. They developped an app that stored data in [Dacadoo](https://www.dacadoo.com). The data platform had to integrate the app data with other data source like Mailchimp and Typeform in realtime. 
+
+
+ through a reward system. An app was developed for this purpose that supplied data for processing in Dacadoo (Swiss software system). This had to be made accessible in a data platform together with information from other data sources such as Mailchimp and Typeform. The data platform had to be able to give immediate feedback to users of the app about bonus points and achievements. Performance and data volumes were an important consideration here. The data had to be shared with other parties in which privacy and security played a major role. I was responsible for designing the Azure architecture, develop ETL of the APIs and other resources and was also accountable for the result.
+Azure SQL Database, Azure Data Factory, Azure Blob Storage, Azure Databricks, Azure Functions, Azure Queue Storage
+
 
 

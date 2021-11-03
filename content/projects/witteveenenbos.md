@@ -1,17 +1,33 @@
 ---
-  title: Build a data platform to support KPI dashboards
-  date: 2018-02-11T12:41:05-05:00
-  description: >
-    Witteveen + Bos is a consultancy and engineering firm consisting of many independent business units. In order to monitor the performance of the business units, the idea of ​​KPI dashboards has been developed. A proof of concept has shown that it is necessary to develop a data platform to make possible to create KPI dashboards. My role was to design a suitable solution consisting of a modern data platform using Microsoft Azure. I was responsible for drawing up the project plan, making the initial architecture and the designs based on the architecture.
-  tags: ["GoDataDriven", "Data Mesh","Power BI", "SharePoint", "SSIS", "Migration", "Data Lake", "Data Factory"]
-  featured: true
-  duration: "**3**"
-  client: "**Witteveenenbos**"
-  role: "**Data Analytics Consultant**"
-  weight: 600
+title: Build a data platform to support KPI dashboards
+date: 2018-02-11T17:41:05.000Z
+description: >
+  Witteveen + Bos is a consultancy and engineering firm consisting of many
+  independent business units. In order to monitor the performance of the
+  business units, the idea of ​​KPI dashboards has been developed. A proof of
+  concept has shown that it is necessary to develop a data platform to make
+  possible to create KPI dashboards. My role was to design a suitable solution
+  consisting of a modern data platform using Microsoft Azure. I was responsible
+  for drawing up the project plan, making the initial architecture and the
+  designs based on the architecture.
+tags:
+  - GoDataDriven
+  - Data Mesh
+  - Power BI
+  - SharePoint
+  - SSIS
+  - Migration
+  - Data Lake
+  - Data Factory
+featured: true
+duration: 3
+client: Witteveenenbos
+role: Data Analytics Consultant
+weight: 2
+show_read_more_link: false
 ---
 
-
+s
 
 # TODO
 Data engineer at Witteveen en Bos

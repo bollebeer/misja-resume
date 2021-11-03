@@ -3,9 +3,9 @@
   <div class="resume-content">
   </div>
   <div class="resume-date">
-    <p>Client: {{ .Params.client | markdownify }}, role: {{ .Params.role | markdownify }}, duration: {{ .Params.duration | markdownify }} months</p>
+    <p>Client: <strong>{{ .Params.client }}</strong>, role: <strong>{{ .Params.role }}</strong>, duration: <strong>{{ .Params.duration }}</strong> months</p>
     <p>{{ .Description | safeHTML }}</p>
-    {{ if .Params.read_more }}
+    {{ if .Params.show_read_more_link }}
       <p class><a href="{{.Permalink}}">Read more..</a></p>
     {{ end }}
   </div>

@@ -20,11 +20,11 @@ tags:
   - Informatica
   - Netezza
 featured: true
-duration: '**2**'
-client: '**Intergamma**'
-role: '**Data Analytics Consultant**'
-read_more: true
-weight: 700
+duration: 2
+client: Intergamma
+role: Data Analytics Consultant
+show_read_more_link: true
+weight: 4
 ---
 # TODO
 

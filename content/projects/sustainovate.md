@@ -1,16 +1,19 @@
 ---
-  title: "Design an integrated data architeture "
-  date: "2018-02-11T12:41:05-05:00"
-  description: "..."
-  tags: ["Analysis Services","SQL Managed Instance", "Mark Logic", "SSIS", "Migration", "Data Lake", "Data Factory"]
-  featured: true
-  duration: "**3**"
-  client: "**Sustainovate**"
-  role: "**Solution Architect**"
+title: Design a Marketplace for Shipping Companies 
+date: 2018-02-11T17:41:05.000Z
+description: >
+  Sustainovate is a data processing organization for shipping companies. They create data solutions (reports and metrics) that are shared between shipowners, environmental organizations and universities. Their current data platform was not designed to fulfill the new requirements regarding privacy, accountability, and security. I was responsible for identifying the requirements, creating the use cases, designing the technical solution.
+tags:
+  - Macaw
+featured: true
+duration: 2
+client: Sustainovate
+role: Solution Architect
+show_read_more_link: false
+weight: 5
 ---
 
 
-Solution Architect
-Sustainovate
-Sustainovate is een data verwerken organisatie voor rederijen m.b.t. tot vangst en sensor gegevens. Deze gegevens worden veredelt en eventueel gedeeld met andere reders, milieu organisaties en universiteiten.
-Werkzaamheden: Ontwerpen solution architectuur
+
+
+
