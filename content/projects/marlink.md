@@ -11,17 +11,8 @@
     - Azure DevOps
     - USQL
     - Azure Data Lake Analytics
-  featured: true
   duration: 7
   client: Marlink
   role: Data Engineer
   weight: 17
 ---
-
-TODO
-Data Egineer
-Het realiseren van een data platform gebruik makend van Azure technologieën zoals Azure Data Lake en Azure Data Lake Analytics.
-Werkzaamheden: Inrichten CI/CD en neerzetten standaarden; Q&A voor een multidisciplinair team van 5 man; Ontwikkelen van ETL (Boskalis); Cloud architectuur ontworpen.
-
-
-Realizing a data platform using Azure technologies. Designed the architecture using only PAAS services with a pay-as-you-go model. Setup CI/CD and defined the developments standards for a multidisciplinary team of 5 people. Developed the ELT for the Boskalis pilot. Responsible for Q&C.

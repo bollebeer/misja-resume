@@ -5,11 +5,9 @@ description: >
   Sustainovate is a data processing company for shipping companies. It creates data solutions (reports and metrics) that are shared between shipping companies, environmental organizations, and universities. Their current data platform was not designed to meet the new privacy, accountability and security requirements. I was responsible for identifying the requirements, creating the use cases, and designing the technical solution.
 tags:
   - Macaw
-featured: true
 duration: 2
 client: Sustainovate
 role: Solution Architect
-show_read_more_link: false
 weight: 5
 ---
 

@@ -1,4 +1,8 @@
+{{ if .Params.show_read_more_link }}
 <h3 class="mb-3"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+{{ else }}
+<h3 class="mb-3">{{ .Title }}</h3>
+{{ end }}
 <div class="resume-item d-flex flex-column flex-md-row mb-3">
   <div class="resume-content">
   </div>
@@ -6,7 +10,7 @@
     <p>Client: <strong>{{ .Params.client }}</strong>, role: <strong>{{ .Params.role }}</strong>, duration: <strong>{{
         .Params.duration }}</strong> months</p>
     <p>{{ .Description | safeHTML }}</p>
-    {{ if .Params.show_read_more_link }}
+    {{ if .Content }}
     <p class><a href="{{.Permalink}}">Read more..</a></p>
     {{ end }}
   </div>

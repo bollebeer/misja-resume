@@ -4,13 +4,12 @@
    {{ partial "portfolio/skills.html" . }}
 
    {{ with .Site.GetPage "section" "projects" }}
-      {{ .Scratch.Set "sectionId" "projects" }}
+      {{ .Scratch.Set "sectionId" "projects" }} <!-- without this link to projects does not work-->
       {{ partial "sectionSummary" . }}
    {{ end }}
    
    {{ partial "portfolio/experience.html" . }}
    {{ partial "portfolio/education.html" . }}
-
-   {{ partial "interests.html" . }}
+   {{ partial "portfolio/interests.html" . }}
 
 {{ end }}
