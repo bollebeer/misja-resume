@@ -8,7 +8,7 @@
       {{ .Content }}
       {{ partial "techtags" . }}
     {{ else }}
-      <p>Nothing to see here</p>
+      <p class="lead">Click <a href="{{ .Parent.Permalink }}">here</a> to go back</p>
     {{ end }}
    
   </div>

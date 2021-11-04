@@ -6,9 +6,6 @@
             <ul>
             {{ range .skills }}
                     <li class="list-inline-item">
-                      {{ if isset . "icon"}}
-                        <i class="{{ lower .icon }}"></i>
-                      {{ end }}
                       {{ if isset . "link"}}
                         <a href="{{.link}}">{{ .name }}</a>
                       {{ else }}

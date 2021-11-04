@@ -1,5 +1,5 @@
 ---
-title: Design an integrated data architeture and migrate a datawarehouse solution
+title: Design an Integrated data Architeture and Migrate a Data Warehouse Solution
 date: 2018-02-11T12:41:05-05:00
 description: >
   De Goudse verzekering designed and built the new enterprise-wide IT architecture. This included setting up an integrated data architecture with the requirement to use MarkLogic due to previous investments. The old on-premises data warehouse also needed to be migrated to Azure. My role as solution architect was to support the enterprise architects, create the target architecture for the solution and plan the migration.

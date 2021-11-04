@@ -3,70 +3,92 @@
     "grouping": "Azure Technologies",
     "skills": [
       {
-        "name": "Azure Databricks"
+        "name": "Azure Databricks",
+        "link": "https://docs.microsoft.com/en-us/azure/databricks/scenarios/what-is-azure-databricks"
       },
       {
-        "name": "Azure Synapse"
+        "name": "Azure Synapse",
+        "link": "https://docs.microsoft.com/en-us/azure/synapse-analytics/overview-what-is"
       },
       {
-        "name": "Log Analytics"
+        "name": "Log Analytics",
+        "link": "https://docs.microsoft.com/en-us/azure/azure-monitor/logs/log-analytics-overview"
       },
       {
-        "name": "Data Factory"
+        "name": "Data Factory",
+        "link": "https://docs.microsoft.com/en-us/azure/data-factory/introduction"
       },
       {
-        "name": "Azure Data Lake Storage"
+        "name": "Azure Data Lake Storage",
+        "link": "https://docs.microsoft.com/en-us/azure/storage/blobs/data-lake-storage-introduction"
       },
       {
-        "name": "Virtual Machines"
+        "name": "Virtual Machines",
+        "link": "https://docs.microsoft.com/en-us/azure/virtual-machines/windows/overview"
       },
       {
-        "name": "Azure Functions"
+        "name": "Azure Functions",
+        "link": "https://docs.microsoft.com/en-us/azure/azure-functions/functions-overview"
       },
       {
-        "name": "App Service"
+        "name": "App Service",
+        "link": "https://docs.microsoft.com/en-us/azure/app-service/overview"
       },
       {
-        "name": "Container Instances"
+        "name": "Container Instances",
+        "link": "https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview"
       },
       {
-        "name": "Container Registry"
+        "name": "Container Registry",
+        "link": "https://docs.microsoft.com/en-us/azure/container-registry/container-registry-intro"
       },
       {
-        "name": "Azure SQL Database"
+        "name": "Azure SQL Database",
+        "link": "https://docs.microsoft.com/en-us/azure/azure-sql/azure-sql-iaas-vs-paas-what-is-overview"
       },
       {
-        "name": "Azure SQL Database for PostgreSQL"
+        "name": "Azure SQL Database for PostgreSQL",
+        "link": "https://docs.microsoft.com/en-us/azure/postgresql/overview"
       },
       {
-        "name": "Azure DevOps"
+        "name": "Azure DevOps",
+        "link": "https://azure.microsoft.com/en-us/services/devops/"
       },
       {
-        "name": "Logic Apps"
+        "name": "Logic Apps",
+        "link": "https://docs.microsoft.com/en-us/azure/logic-apps/logic-apps-overview"
       },
       {
-        "name": "Azure Policy"
+        "name": "Azure Policy",
+        "link": "https://docs.microsoft.com/en-us/azure/governance/policy/overview"
       },
       {
-        "name": "Azure Cost Management and Billing"
+        "name": "Azure Cost Management and Billing",
+        "link": "https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview"
       },
       {
-        "name": "Azure Advisor"
+        "name": "Azure Advisor",
+        "link": "https://docs.microsoft.com/en-us/azure/advisor/advisor-overview"
       },
       {
-        "name": "Key Vault"
+        "name": "Key Vault",
+        "link": "https://docs.microsoft.com/en-us/azure/key-vault/general/overview"
       },
       {
-        "name": "Azure Active Directory"
+        "name": "Azure Active Directory",
+        "link": "https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-whatis"
       },
       {
-        "name": "Azure Blob Storage"
+        "name": "Azure Blob Storage",
+        "link": "https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blobs-overview"
       },
       {
-        "name": "Azure Files"
+        "name": "Azure Files",
+        "link": "https://docs.microsoft.com/en-us/azure/storage/files/storage-files-introduction"
       },
       {
-        "name": "Virtual Network"
+        "name": "Virtual Network",
+        "link": "https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview"
       },
       {
         "name": "Private Link",
@@ -79,37 +101,39 @@
     "skills": [
       {
         "name": "Microsoft SQL Server",
-        "icon": "devicon-microsoftsqlserver-plain-wordmark"
+        "link": "https://www.microsoft.com/en-us/sql-server/sql-server-2022"
       },
       {
         "name": "PostgreSQL",
-        "icon": "database"
+        "link": "https://www.postgresql.org"
       },
       {
-        "name": "Delta Lake"
+        "name": "Delta Lake",
+        "link": "https://docs.delta.io/latest/index.html"
       },
       {
-        "name": "Databricks"
+        "name": "Databricks",
+        "link": "https://databricks.com"
       },
       {
-        "name": "Spark"
+        "name": "Spark",
+        "link": "https://spark.apache.org"
       },
       {
-        "name": "DBT"
+        "name": "DBT",
+        "link": "https://www.getdbt.com"
       },
       {
-        "name": "Fivetran"
+        "name": "Fivetran",
+        "link": "https://fivetran.com/"
       },
       {
-        "name": "Great Expectations"
+        "name": "Great Expectations",
+        "link": "https://greatexpectations.io"
       },
       {
         "name": "Azure SQL Database",
-        "icon": "database"
-      },
-      {
-        "name": "Azure SQL Database",
-        "icon": "database"
+        "link": "https://azure.microsoft.com/en-us/products/azure-sql/database/"
       }
     ]
   },
@@ -117,12 +141,10 @@
     "grouping": "Programming Languages",
     "skills": [
       {
-        "name": "Java",
-        "icon": "devicon-java-plain colored"
+        "name": "Java"
       },
       {
-        "name": "C#",
-        "icon": "devicon-csharp-plain colored"
+        "name": "C#"
       },
       {
         "name": "SQL"
@@ -131,8 +153,7 @@
         "name": "PowerShell"
       },
       {
-        "name": "Python",
-        "icon": "devicon-python-plain colored"
+        "name": "Python"
       }
     ]
   },
@@ -155,13 +176,30 @@
         "name": "Windows"
       },
       {
-        "name": "Cloud Custodian"
+        "name": "Cloud Custodian",
+        "link": "https://cloudcustodian.io"
       },
       {
-        "name": "Terrafrom"
+        "name": "Terrafrom",
+        "link": "https://www.terraform.io"
       },
       {
-        "name": "ARM"
+        "name": "ARM",
+        "link": "https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview"
+      }
+    ]
+  },
+  {
+    "grouping": "Languages",
+    "skills": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Dutch"
+      },
+      {
+        "name": "Spanisch"
       }
     ]
   },

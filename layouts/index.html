@@ -1,15 +1,15 @@
 {{ define "main" }}
    {{ partial "about.html" . }}
 
-   {{ partial "portfolio/skills.html" . }}
+   {{ partial "skills.html" . }}
 
    {{ with .Site.GetPage "section" "projects" }}
       {{ .Scratch.Set "sectionId" "projects" }} <!-- without this link to projects does not work-->
       {{ partial "sectionSummary" . }}
    {{ end }}
    
-   {{ partial "portfolio/experience.html" . }}
-   {{ partial "portfolio/education.html" . }}
-   {{ partial "portfolio/interests.html" . }}
+   {{ partial "experience.html" . }}
+   {{ partial "education.html" . }}
+   {{ partial "interests.html" . }}
 
 {{ end }}

@@ -1,5 +1,5 @@
 ---
-title: Create a datawarehouse for finacial reporting to the goverment
+title: Create a Data Warehouse for Finacial Reporting to the Goverment
 date: 2018-02-11T12:41:05-05:00
 description: >
   Het Nieuwe Instituut has an obligation to the government to report on the progress and budgets of long-term projects. For this they wanted to use a data platform and accompanying reports. I developed the ETL of the local systems (AFAS and Exact), implemented and set up the Azure environment and was responsible for the realization of the entire project.

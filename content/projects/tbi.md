@@ -1,5 +1,5 @@
 ---
-title: Realizing a metadata driven data platform
+title: Realizing a Metadata Driven Data Platform
 date: 2018-02-11T12:41:05-05:00
 description: >
   Design and implementation of a data platform for the Shared Service Center (SSC), which is part of TBI. The SSC provides IT services to 17 companies in the construction and infrastructure sectors. 
