@@ -13,7 +13,7 @@ params:
   lastName: Pronk
   phone: 0636041213
   contactNote: "aaaa"
-  profileImage: img/profile-picture.jpg
+  profileImage: img/profile-picture.webp
   handles:
     - link: 'https://www.linkedin.com/in/misja-pronk-5343729a/'
       name: LinkedIn

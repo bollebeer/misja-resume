@@ -4,7 +4,12 @@
     <h2 class="mb-5">{{ .Title }}</h2>
     <h3>Who is Misja?</h3>
     {{ .Content | safeHTML }}
-    <h3>Favourite books</h3>
-    <h3>Favourite series</h3>
+
+    <h3>Favourite series, films and books</h3>
+    {{ range .Site.Data.interests }}
+    <img class="img-fluid img-thumbnail rounded", src="{{.src}}", alt="{{.alt}}" style="max-height:75px;max-width:10%;"> 
+    {{ end }}
+
+    {{ end }}
   </div>
 </section>
