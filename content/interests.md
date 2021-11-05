@@ -1,4 +1,0 @@
----
-title: Interests
----
-I am 31 years old and currently live in The Hague. I lived in Valencia (Spain) for a few years and fell in love with the country and its people. Originally I wanted to become a chef, but somehow I ended up at IT and I do not regret it. Cooking is now my hobby and I love cooking for family, friends and colleagues. I recently got a new family member, Rex (the Scottish Collie), and I love taking him for long walks. My other hobbies are motorcycles (I ride a KTM 1190), guitars and woodworking, games. I am also a tech enthusiast and follow the latest developments in technology and engineering.
