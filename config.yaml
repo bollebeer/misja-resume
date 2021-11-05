@@ -1,5 +1,5 @@
 title: Misja Pronk - Resume
-baseURL: https://bollebeer.github.io/misja-resume/
+baseURL: https://misja-pronk.github.io/resume/
 languageCode: en-us
 PygmentsCodeFences: true
 PygmentsCodeFencesGuessSyntax: true
@@ -16,7 +16,7 @@ params:
   handles:
     - link: https://www.linkedin.com/in/misja-pronk-5343729a/
       name: LinkedIn
-    - link: https://github.com/bollebeer/
+    - link: https://github.com/misja-pronk
       name: GitHub
 outputs:
   home:
