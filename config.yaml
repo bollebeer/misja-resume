@@ -1,17 +1,12 @@
 title: Misja Pronk - Resume
 baseURL: https://misja-pronk.github.io/resume/
 languageCode: en-us
-PygmentsCodeFences: true
-PygmentsCodeFencesGuessSyntax: true
-PygmentsStyle: monokai
-enableGitInfo: false
 params:
   address: Pijlpunt 16 2496SN Den Haag Nederland
   email: misjapronk@hotmail.com
-  favicon: /favicon.ico
+  favicon: favicon.ico
   firstName: Misja
   lastName: Pronk
-  phone: 0636041213
   profileImage: img/profile-picture.webp
   handles:
     - link: www.linkedin.com/in/misja-pronk
