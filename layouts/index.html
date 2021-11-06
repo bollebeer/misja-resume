@@ -3,9 +3,6 @@
    {{ partial "experience.html" . }}
    {{ partial "skills.html" . }}
    {{ partial "education.html" . }}
-   {{ with .Site.GetPage "section" "projects" }}
-      {{ .Scratch.Set "sectionId" "projects" }} <!-- without this link to projects does not work-->
-      {{ partial "sectionSummary" . }}
-   {{ end }}
+   {{ partial "projects.html" . }}
    {{ partial "interests.html" . }}
 {{ end }}

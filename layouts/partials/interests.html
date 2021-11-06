@@ -2,10 +2,10 @@
   <div class="my-auto" id="interests">
     <h2 class="mb-5">Interests</h2>
     <h3>Who is Misja?</h3>
-    {{ .Site.Data.interests.summary | markdownify }}
+      {{ .Site.Data.interests.summary | markdownify }}
     <h3>Favourite series, films, books and other things</h3>
     {{ range .Site.Data.interests.images }}
-    <img class="img-fluid img-thumbnail rounded", src="{{.src}}", alt="{{.alt}}" style="max-height:75px;max-width:10%;"> 
+      <img class="img-fluid img-thumbnail rounded", src="{{.src}}", alt="{{.alt}}" style="max-height:75px;max-width:10%;"> 
     {{ end }}
   </div>
 </section>

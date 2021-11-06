@@ -1,14 +1,21 @@
 {{ define "main" }}
-<!-- this is displayed for a specific tag, and will link content related -->
 <section class="resume-section p-3 p-lg-5 d-flex d-column">
   <div class="my-auto">
-
-    Content tagged with <span class="tag">{{ .Data.Term }}</span>
+    {{ $tag := .Data.Term }}
+    Content tagged with <span class="tag">{{ $tag }}</span>
     <ul>
-      {{ range .Data.Pages }}
-      <li>
-        <a href="{{.Permalink}}">{{.Title}}</a>
-      </li>
+      {{ with .Site.GetPage "section" "projects" }}
+        {{ range .Pages }}
+          {{ if in .Params.tags $tag }}
+            <li>
+              {{ if .Content }}
+                <a href="{{.Permalink}}">{{.Title}}</a>
+              {{ else }}
+                <a href="{{ printf "#%s" .Params.id | relURL }}">{{ .Title }}</a>
+              {{ end }}
+            </li>
+          {{ end }}
+        {{ end }}      
       {{ end }}
     </ul>
   </div>

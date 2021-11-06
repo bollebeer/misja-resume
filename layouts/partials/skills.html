@@ -2,18 +2,18 @@
   <div class="my-auto" id="skills-content">
     <h2 class="mb-5">Skills</h2>
     {{ range $.Site.Data.skills }}
-        <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
-            <ul>
-            {{ range .skills }}
-                    <li class="list-inline-item">
-                      {{ if isset . "link"}}
-                        <a href="{{.link}}">{{ .name }}</a>
-                      {{ else }}
-                          {{ .name }}
-                      {{ end }}
-                    </li>
+      <div class="subheading mb-3 skills-heading">{{ .grouping }}</div>
+        <ul>
+        {{ range .skills }}
+          <li class="list-inline-item">
+            {{ if isset . "link"}}
+              <a href="{{.link}}">{{ .name }}</a>
+            {{ else }}
+                {{ .name }}
             {{ end }}
-            </ul>
+          </li>
+        {{ end }}
+        </ul>
     {{ end }}
   </div>
 </section>

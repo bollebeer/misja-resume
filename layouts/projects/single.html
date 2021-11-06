@@ -6,11 +6,14 @@
       <h2 class="mb-0"><span class="text-primary">{{ .Title }}</span></h2>
       <p>Client: <strong>{{ .Params.client }}</strong>, role: <strong>{{ .Params.role }}</strong>, duration: <strong>{{ .Params.duration }}</strong> months</p>
       {{ .Content }}
-      {{ partial "techtags" . }}
+      <ul class="tags">
+        {{ range .Params.tags }}
+            <li><a class="tag" href="{{ "/tags/" | relURL }}{{ . | urlize }}">{{ . }}</a></li>
+        {{ end }}
+    </ul>
     {{ else }}
       <p class="lead">Click <a href="{{ .Parent.Permalink }}">here</a> to go back</p>
     {{ end }}
-   
   </div>
 </section>
 {{ end }}
