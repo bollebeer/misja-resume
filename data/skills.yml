@@ -66,13 +66,17 @@
     link: https://greatexpectations.io
   - name: Azure SQL Database
     link: https://azure.microsoft.com/en-us/products/azure-sql/database/
+  - name: Neo4j
+    link: https://neo4j.com/
 - grouping: Programming Languages
   skills:
   - name: Java
   - name: C#
   - name: SQL
+  - name: Cypher
   - name: PowerShell
   - name: Python
+  - name: USQL
 - grouping: Containers & Cloud
   skills:
   - name: Docker
@@ -84,12 +88,14 @@
   - name: Windows
   - name: Cloud Custodian
     link: https://cloudcustodian.io
-  - name: Terrafrom
+  - name: Terraform
     link: https://www.terraform.io
   - name: ARM
     link: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
-- grouping: Languages
+- grouping: Languages & softskills
   skills:
+  - name: presenting
+  - name: training
   - name: English
   - name: Dutch
   - name: Spanisch
