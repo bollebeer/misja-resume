@@ -8,6 +8,7 @@ params:
   firstName: Misja
   lastName: Pronk
   profileImage: img/profile-picture.webp
+  resume: docs/mp_resume.pdf
   handles:
     - link: www.linkedin.com/in/misja-pronk
       name: LinkedIn
