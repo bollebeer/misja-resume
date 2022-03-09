@@ -14,3 +14,8 @@
     database designer, and business intelligence analyst.
   badge: https://images.credly.com/size/680x680/images/909ded26-c510-429f-a131-1cae15e49368/MCSE-Data-Management-and-Analytics-2018.png
   proof: https://www.credly.com/badges/c5164531-b99f-4347-8ebe-55fa3c818e5f
+- name: 'dbt Fundamentals'
+  description: >
+    This badge is issued to any dbt developer who has completed the online dbt Fundamentals v2 course and passed the end of course quiz. This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt.
+  badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47700111
+  proof: https://www.credential.net/9eba8dfd-594e-4faf-b6b0-e1f46c6a057d#gs.shuwjt
