@@ -3,7 +3,7 @@ baseURL: https://misja-pronk.github.io/resume/
 languageCode: en-us
 params:
   address: Pijlpunt 16 2496SN Den Haag Nederland
-  email: misjapronk@hotmail.com
+  email: misja@prorexconsultancy.nl
   favicon: favicon.ico
   firstName: Misja
   lastName: Pronk

@@ -94,8 +94,8 @@
     link: https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview
 - grouping: Languages & softskills
   skills:
-  - name: presenting
-  - name: training
+  - name: Presenting
+  - name: Training
   - name: English
   - name: Dutch
   - name: Spanisch
@@ -116,9 +116,11 @@
 - grouping: Others
   skills:
   - name: Git
-    link: https://agilemanifesto.org
-  - name: DevOps
-    link: https://agilemanifesto.org
+    link: https://git-scm.com/
+  - name: Azure DevOps
+    link: https://azure.microsoft.com/en-us/services/devops/?nav=min
+  - name: GitLab
+    link: https://about.gitlab.com/
   - name: Github
-    link: https://agilemanifesto.org
+    link: https://github.com/
 
