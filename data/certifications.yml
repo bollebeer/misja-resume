@@ -19,3 +19,8 @@
     This badge is issued to any dbt developer who has completed the online dbt Fundamentals v2 course and passed the end of course quiz. This demonstrates fundamental understanding of models, sources, tests, docs, and deployment in dbt.
   badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/47700111
   proof: https://www.credential.net/9eba8dfd-594e-4faf-b6b0-e1f46c6a057d#gs.shuwjt
+- name: 'Databricks Lakehouse Fundamentals'
+  description: >
+    Earners of the Lakehouse Fundamentals accreditation have demonstrated the understanding of fundamental concepts related to Databricks Lakehouse Platform.
+  badge: https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/54173332
+  proof: https://credentials.databricks.com/e8be9194-5f17-4cf0-b48c-5e85a2636858
